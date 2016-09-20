@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhereAmI&amp;WhatsTheWeather</string>
+    <string name="title_activity_map">Map</string>
+    <string name="enableLocation">Please enable location services for this app to work!</string>
+    <string name="loading">Loading…</string>
+    <string name="PlaceWeatherTime">Place Weather Time</string>
+    <string name="tellMeMore">Tell me more</string>
+    <string name="locationHistory">Location History</string>
+    <string name="description">This simple app shows you your current position on Google Maps and the current weather for that locaton.</string>
+    <string name="moreInformation">More information</string>
+    <string name="noIntConnection">You have no available internet connection.</string>
+</resources>
