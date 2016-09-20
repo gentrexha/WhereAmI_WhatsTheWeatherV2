@@ -1,11 +1,13 @@
 #### WhereAmI_WhatsTheWeatherV2 
-Disclaimer: This is a V2 because I changed something in the old repo, and kinda broke my gradle sync which I couldn't bother finding a fix for, so I just transfered my old project to a new one. The old repo has all of the commits.
-
-Old link: https://github.com/gentrexha/WhereAmI_WhatsTheWeather
 
 Student name: Gent Rexha
 
 Student ID: 998903
+
+### Disclaimer:
+
+This is a V2 because I changed something in the old repo, and kinda broke my gradle sync which I couldn't bother finding a fix for, so I just transfered my old project to a new one. Here is the old repo with all the other commits https://github.com/gentrexha/WhereAmI_WhatsTheWeather
+
 
 # Description of the application:
 
