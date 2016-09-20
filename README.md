@@ -3,6 +3,10 @@ Disclaimer: This is a V2 because I changed something in the old repo, and kinda 
 
 Old link: https://github.com/gentrexha/WhereAmI_WhatsTheWeather
 
+Student name: Gent Rexha
+
+Student ID: 998903
+
 # Description of the application:
 
 The WhereAmI&WhatsTheWeather application is a simple Android application, which does exactly what it says. 
