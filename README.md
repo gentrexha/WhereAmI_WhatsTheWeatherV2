@@ -1,4 +1,4 @@
-#### WhereAmI_WhatsTheWeatherV2 
+#### WhereAmI&WhatsTheWeather 
 
 Student name: Gent Rexha
 
