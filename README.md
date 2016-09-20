@@ -29,7 +29,7 @@ service it has to ask for that service and the user can allow or disallow it [5]
 activity and reduce the number of activity switches. After the map fragment is ready to show the map it enables the user 
 to show his location and connects to the Google API through the Google API client. At first step, the app gets the users last 
 location and moves the view there while it starts requesting location updates which are done in an interval of 10 seconds 
-through the FusedLocationAPI [6], if the current location is different from its last location it will move the view to 
+through the FusedLocationAPI [6], although if there is no internet access the app tries to pinpoint the user through the GPS sensor of the device which might take some time. If the current location is different from its last location it will move the view to 
 current location and re-initialize the passing variables for the information activity. In case the user pauses the app and 
 the app is still connected location updates are paused. If the user requests more information for his current location, 
 altitude and longitude are passed to a bundle [7] for the next activity, for which the user has to be connected to the internet [8], 
